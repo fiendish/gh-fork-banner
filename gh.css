@@ -6,5 +6,3 @@
     #gh {position:absolute;display:block;top:0;right:0;width:200px;overflow:hidden;height:200px;}
     #gh a {width:200px;position:absolute;top:60px;right:-70px;transform:rotate(45deg);-webkit-transform:rotate(45deg);}
 }
-#fo {position:absolute;left:0;right:0;border-width:0;}
-#it {font-style:italic;}
